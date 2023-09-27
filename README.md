@@ -1,4 +1,4 @@
-# <span style="color: orange;"># Hi, Julia's here</span>
+# Hi, Julia's here!
 
 ## About me
 
